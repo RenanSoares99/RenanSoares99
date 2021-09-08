@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/renansoares99">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=renansoares99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansoares99&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renansoares99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansoares99&layout=compact&langs_count=7&theme=tokyonight"/> -->
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,11 +25,12 @@
 <div>
   <h3>About Me</h3>
   <ul>
-    <li><p align="justify">I am 20 years old and I am a student of computer science by the University Center of João Pessoa - UNIPÊ.</p></li>
+    <li><p align="justify">I am 22 years old and I am a student of computer science by the University Center of João Pessoa - UNIPÊ.</p></li>
   </ul>
-</div><br>
-  
+</div>
+
 <div>
+  <h3>Contact</h3>
   <a href="https://gitlab.com/renansoaresa99" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-soares-7572b3197" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:mailto:contatorafaballerini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
