@@ -17,7 +17,10 @@
   <img alt="Renan-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img alt="Renan-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="Renan-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <!-- <img align="center" alt="Renan-#" src=""> -->
+  <img alt="Renan-#" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Renan-#" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img alt="Renan-#" src="">
+  <!-- <img alt="Renan-#" src=""> -->
 </div>
   
 ##
