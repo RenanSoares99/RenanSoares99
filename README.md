@@ -19,7 +19,6 @@
   <img alt="Renan-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="Renan-#" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img alt="Renan-#" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img alt="Renan-#" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
   <!-- <img alt="Renan-#" src=""> -->
 </div>
   
@@ -40,5 +39,4 @@
   <a href="https://twitter.com/RenanRV6" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <!-- <a href="" target="_blank"><img src="" target="_blank"></a> -->
 </div>
-  
   
